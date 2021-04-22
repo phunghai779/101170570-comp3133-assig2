@@ -1,0 +1,20 @@
+{
+  "name": "101170570_comp3133_assig1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuan Hai Phung",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-core": "^2.21.0",
+    "apollo-server-express": "^2.21.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.11.17"
+  }
+}
